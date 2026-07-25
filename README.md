@@ -1,21 +1,22 @@
 Hey there!
 
-I'm Simone, a mechanical engineer based in Italy.
+I'm Simone, a hardware entusiast based in Italy.
 
-I mostly work on frontend stuff — React, TypeScript, Tailwind, and a bit of animation with Framer Motion.
+I mostly work on DIY projects, and school projects. I've also worked for MechSys (engineering company specializing in mechanical design)
 
-I also use Figma for UI design and Procreate when I want to sketch ideas.
+At the WRO Open in Slovenia, I was awarded Best Startup Idea and won the bronze medal. Looking ahead, I will be participating in the national 
+session of the Model European Parliament (MEP) and competing at the 2026 WRO Open in Croatia.
 
-This is a fresh profile where I’ll be uploading some projects, experiments, and things I’m currently working on. Hack club.
+This is a fresh profile where I’ll be uploading some projects, experiments, and things I’m currently working on.
 Tools & Tech
 
-    React, TypeScript, Tailwind
-    Framer Motion for animations
-    Figma, Apple Notes, Procreate
+    SolidWorks, AutoCad 
+    OnShape, Bambu Studio
+    KiCad, Notion
 
 A Bit About Me
 
-    🐈 I have two cats
-    🍵 Not a coffee or tea person
-    🎴 Into anime — Demon Slayer is a favorite
-    🧱 I like building things that are simple, useful, and easy to understand
+    🥋 I'm a Taekwondo black belt
+    🏃 I love running
+    📜 I can read Latin
+    🔢 My like number is 3
