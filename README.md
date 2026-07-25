@@ -17,4 +17,4 @@ This is a fresh profile where I’ll be uploading projects, experiments, and thi
     * 📅 Born in 2009
     * 🤓 Can't wait for 2048 so I can live in a year that is a power of 2
     * 🥋 I'm a Taekwondo black belt
-    * 📜 I can read Latin
+    * 📜 I understand Latin
