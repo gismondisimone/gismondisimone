@@ -14,7 +14,7 @@ This is a fresh profile where I’ll be uploading projects, experiments, and thi
     * Productivity: Notion
 
 ###  A Bit About Me
-    * 📅 Born in 2009
+    * 🏃 I love running
     * 🤓 Can't wait for 2048 so I can live in a year that is a power of 2
     * 🥋 I'm a Taekwondo black belt
     * 📜 I understand Latin
