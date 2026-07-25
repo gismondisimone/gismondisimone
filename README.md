@@ -8,13 +8,13 @@ At the WRO Open in Slovenia, I was awarded **Best Startup Idea** and won the **b
 
 This is a fresh profile where I’ll be uploading projects, experiments, and things I’m currently working on.
 
-### 🛠️ Tools & Tech
-* **CAD & Design:** SolidWorks, AutoCAD, OnShape
-* **Hardware & Prototyping:** KiCad, Bambu Studio
-* **Productivity:** Notion
+###  Tools & Tech
+    * **CAD & Design:** SolidWorks, AutoCAD, OnShape
+    * **Hardware & Prototyping:** KiCad, Bambu Studio
+    * **Productivity:** Notion
 
-### 🎨 A Bit About Me
-* 📅 Born in 2009
-* 🤓 Can't wait for 2048 so I can live in a year that is a power of 2 ($2^{11}$)
-* 🥋 I'm a Taekwondo black belt
-* 📜 I can read Latin
+###  A Bit About Me
+    * 📅 Born in 2009
+    * 🤓 Can't wait for 2048 so I can live in a year that is a power of 2 ($2^{11}$)
+    * 🥋 I'm a Taekwondo black belt
+    * 📜 I can read Latin
