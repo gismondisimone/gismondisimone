@@ -1,4 +1,4 @@
-Hey there!
+**Hey there! 👋**
 
 I'm Simone, a hardware enthusiast based in Italy.
 
