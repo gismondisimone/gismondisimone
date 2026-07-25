@@ -15,6 +15,6 @@ This is a fresh profile where I’ll be uploading projects, experiments, and thi
 
 ###  A Bit About Me
     * 📅 Born in 2009
-    * 🤓 Can't wait for 2048 so I can live in a year that is a power of 2 ($2^{11}$)
+    * 🤓 Can't wait for 2048 so I can live in a year that is a power of 2
     * 🥋 I'm a Taekwondo black belt
     * 📜 I can read Latin
